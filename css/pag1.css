@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+body {
+    background-image: url(../multimedia/volley.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+
+h1 {
+    padding-bottom: 3%;
+    color: rgb(42, 13, 13);
+    text-align: left;
+    padding-left: 2%;
+}
+
+.bloc {
+    padding-left: 2%;
+    font-family: "Happy Monkey";
+    font-size: large;
+    background-color: rgba(233, 188, 129, 0.325);
+    border-radius: 8px;
+    border-style: inset;
+    
+}

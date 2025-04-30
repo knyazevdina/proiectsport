@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Mystery+Quest&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=swap');
+
+
+body {
+    margin: 0;
+    background-image: url(../multimedia/sport.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+
+h1 {
+    text-align: center;
+    font-family: "Mystery Quest";
+    color: rgb(5, 80, 24);
+    font-size: 250%;
+}
+
+.content { 
+margin-top: 1%;
+  font-family: "Chewy", system-ui;
+  background-color: #77c16289;
+  padding: 10px;
+  border-radius: 8px;
+  display: inline-block;
+  
+  
+ 
+}
+
+video {
+    margin-top: 20px;
+}
+
+audio {
+    padding-left: 5%;
+    margin-top: 20px;
+}

@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Peralta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mystery+Quest&display=swap');
+
+body {
+    background-image: url(../multimedia/sport2.jpg);
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+
+  h1, h2 {
+    font-family: "Mystery Quest";
+    color: rgb(245, 215, 43);
+    background-color: rgba(248, 127, 6, 0.723);
+    border-style: dashed;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 40px;
+    text-align: center;
+  }
+
+  table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: #5dbf5d;
+  }
+
+  th, td {
+    padding: 12px;
+    border: 4px solid #386403;
+    text-align: center;
+    width: 25px;
+    font-family: "Peralta";
+  }
+
+  th {
+    background-color: #b7f125;
+    height: 20px;
+  }
+
+  iframe {
+    display: block;
+  width: 80%;
+  height: 400px;
+  margin: 20px auto 0;
+  border: none;
+  }
